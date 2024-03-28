@@ -1,14 +1,14 @@
 .header {
-	background-color: light-blue;
-	display: flex;
-	width: 100%;
-	justify-content: space-between;
+  background-color: light-blue;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
 }
 .paragraph {
-	background-color: yellow;
-	color: black;
+  background-color: yellow;
+  color: black;
 }
 .cart {
-	background-color: red;
-	color: yellow;
+  background-color: red;
+  color: yellow;
 }
